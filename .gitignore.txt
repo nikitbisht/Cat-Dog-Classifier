@@ -1,0 +1,28 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directory (if using virtualenv or venv)
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor configuration files
+.vscode/
+.idea/
+
+# TensorFlow/Keras model files (if you want to ignore large model files)
+*.h5
+
+# Dataset directories (if not included in the repo)
+dataset/
+
+# Streamlit config
+.config/
+
+# Logs
+*.log
