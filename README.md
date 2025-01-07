@@ -29,12 +29,32 @@ Download it [here](https://www.kaggle.com/datasets/salader/dogs-vs-cats).
 
    This will ensure that all required libraries are installed in your environment.
 
-### Explanation of Fixes:
+## 📊 Model Training
+The model uses transfer learning with the **ResNet50** architecture. The training process is detailed in a Jupyter notebook included in the repository.
 
-1. **Code Block Fix**: The `pip install -r requirements.txt` command was missing the closing backtick for the code block, causing a formatting issue.
-2. **Proper Markdown Formatting**: Ensured that the markdown is structured with headings and subsections, which makes it visually appealing.
-3. **Model Download Link**: Included the placeholder  [here](https://drive.google.com/file/d/1-GJtoo4UiNt1PegTuCgcwggDiD_AKV1O/view?usp=drive_link). which should be replaced with the actual link to the pre-trained model.
-4. **Images Placeholder**: The screenshot sections now have placeholders like `images/home_page.png`, which you should update to the correct path to your image files.
+---
 
-### Result:
-Now the **README.md** should render cleanly with all sections and be easily readable on GitHub. Let me know if you need further adjustments!
+## 🖼 Screenshots
+- **Home Page:**
+  ![Home Page](images/home_page.png)
+  
+- **Upload Mode:**
+  ![Upload Mode](images/upload_mode.png)
+
+---
+
+## 🤝 Contribution
+Contributions are welcome!  
+Feel free to fork this repository, create an issue, or submit a pull request.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+
+---
+
+## 📬 Contact
+For any questions or feedback, reach out at:  
+**nikitbisht1859@gmail.com**
+
