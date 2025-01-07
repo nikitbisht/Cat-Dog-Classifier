@@ -36,10 +36,10 @@ The model uses transfer learning with the **ResNet50** architecture. The trainin
 
 ## 🖼 Screenshots
 - **Home Page:**
-  ![Home Page](images/home_page.png)
+  ![Home Page](src/images/home_page.png)
   
 - **Upload Mode:**
-  ![Upload Mode](images/upload_mode.png)
+  ![Upload Mode](src/images/upload_mode.png)
 
 ---
 
