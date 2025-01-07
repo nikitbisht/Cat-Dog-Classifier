@@ -33,7 +33,7 @@ Download it [here](https://www.kaggle.com/datasets/salader/dogs-vs-cats).
 
 1. **Code Block Fix**: The `pip install -r requirements.txt` command was missing the closing backtick for the code block, causing a formatting issue.
 2. **Proper Markdown Formatting**: Ensured that the markdown is structured with headings and subsections, which makes it visually appealing.
-3. **Model Download Link**: Included the placeholder `https://drive.google.com/file/d/1-GJtoo4UiNt1PegTuCgcwggDiD_AKV1O/view?usp=drive_link` which should be replaced with the actual link to the pre-trained model.
+3. **Model Download Link**: Included the placeholder  [here](https://drive.google.com/file/d/1-GJtoo4UiNt1PegTuCgcwggDiD_AKV1O/view?usp=drive_link). which should be replaced with the actual link to the pre-trained model.
 4. **Images Placeholder**: The screenshot sections now have placeholders like `images/home_page.png`, which you should update to the correct path to your image files.
 
 ### Result:
