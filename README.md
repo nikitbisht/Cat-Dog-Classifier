@@ -6,9 +6,8 @@ This project is a deep learning-based application designed to classify images of
 
 ## 🚀 Features
 
-- **Image Upload Mode**: Upload an image to classify it as a cat or a dog.
-- **Real-Time Camera Mode**: Use your webcam to classify live images of cats and dogs.
-- **Deep Learning Model**: Built with TensorFlow using transfer learning for high accuracy.
+- **Image Upload Mode**: Upload an image to classify it as a cat or a dog.  
+- **Deep Learning Model**: Built from scratch using TensorFlow with an accuracy of 90%.  
 - **Streamlit Interface**: Simple and easy-to-use interface.
 
 ---
