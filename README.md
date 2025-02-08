@@ -29,7 +29,7 @@ Download it [here](https://www.kaggle.com/datasets/salader/dogs-vs-cats).
    This will ensure that all required libraries are installed in your environment.
 
 ## 📊 Model Training
-The model uses transfer learning with the **ResNet50** architecture. The training process is detailed in a Jupyter notebook included in the repository.
+The model uses 3 CNN layers. The training process is detailed in a Jupyter notebook included in the repository.
 
 ---
 
